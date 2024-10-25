@@ -6,12 +6,31 @@ BEL-MetAIxpert is an AI-driven application designed for Bharat Electronics Limit
 ## OVERVIEW
 ## Home:
 
-![Home](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Home.png?raw=true)
+![Home](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Home.png?raw=true)
 
-## Restaurant Name Generator:
+## Optimal Material Composition:
 
-![Restaurant Name Generator](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generator.png?raw=true)
-![](https://github.com/Rachit2527/Restaurant---AI-Assistant/blob/main/Restaurant%20Name%20Generatorr%202.png?raw=true)
+![Optimal Material Composition](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Optimal%20Material%20Composition.png?raw=true)
+
+## Performance Metrics Prediction:
+
+![Performance Metrics Prediction](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Performance%20Prediction.png?raw=true)
+![](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Performance%20Prediction2.png?raw=true)
+
+
+## Environmental Resistance Analysis:
+
+![Environmental Resistance Analysis](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Environmental%20Maintenance.png?raw=true)
+![](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Environmental%20Maintenance2.png?raw=true)
+
+## Predictive Maintenance Analysis:
+
+![Predictive Maintenance Analysis](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Predictive%20Maintenance.png?raw=true)
+
+![](https://github.com/Rachit2527/BEL-AI-Expert/blob/main/Predictive%20Maintenance2.png?raw=true)
+
+
+
 
 ## Key Features:
 
